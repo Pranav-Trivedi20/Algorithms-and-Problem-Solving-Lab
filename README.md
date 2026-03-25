@@ -1,5 +1,6 @@
 Solved Hackerrank Questions:
 Forming a Mangic Square
+
 Climbing the leaderboard
 Extra Long Factorials
 Organising Containers of balls 
